@@ -1,0 +1,20 @@
+2020-09-24 20:48:22 *NORMAL*     Started on Windows 10.0.0.19041 x64. Driver status: 0xC0000428
+2020-09-24 20:49:25 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 1948, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2020-09-24 20:49:25 *CRITICAL*   Injecting image 'C:\Users\Admin\Desktop\Skid 1.0 By Txl\Skid_1.0.dll'
+2020-09-24 20:57:07 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 1948, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2020-09-24 20:57:07 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+2020-09-24 20:57:18 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 10132, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2020-09-24 20:57:18 *CRITICAL*   Injecting image 'C:\Users\Admin\Desktop\Skid 1.0 By Txl\Skid_1.0.dll'
+
+2020-09-24 23:10:56 *NORMAL*     Started on Windows 10.0.0.19041 x64. Driver status: 0xC0000428
+2020-09-24 23:16:34 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 9904, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2020-09-24 23:16:34 *CRITICAL*   Injecting image 'C:\Users\Admin\Desktop\Skid 1.0 By Txl\Skid_1.0.dll'
+
+2020-09-25 08:48:57 *NORMAL*     Started on Windows 10.0.0.19041 x64. Driver status: 0xC0000428
+2020-09-25 08:48:57 *ERROR*      File "C:\Users\Admin\Desktop\Skid 1.0 By Txl\Skid_1.0.dll" is not a valid PE image
+2020-09-25 08:52:33 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7976, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2020-09-25 08:52:33 *CRITICAL*   Injecting image 'C:\Users\Admin\Desktop\GTAV Mod Menus\Skid 1.0 By Txl\Skid_1.0.dll'
+2020-09-25 08:52:44 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 8208, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2020-09-25 08:52:44 *CRITICAL*   Injecting image 'C:\Users\Admin\Desktop\GTAV Mod Menus\Skid 1.0 By Txl\Skid_1.0.dll'
